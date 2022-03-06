@@ -1,0 +1,5 @@
+NTP_Server = "10.0.0.2"   #ATL"10.0.0.2"
+MQTT_Broker = "10.0.0.2" #"192.168.0.39"  ATL"99.116.180.145" 
+MQTT_TopicBase = "TestHouse"
+MQTT_user = ""
+MQTT_pwd = ""
